@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vince</h1>
-<h3 align="center">Experienced Full-Stack Software Engineer with a background in customer service and operations management, adept at developing web applications and leading teams. Seeking opportunities to apply software engineering skills in an innovative tech environment.</h3>
+<h3 align="center">I'm a Full-Stack Software Engineer with a background in customer service and operations management, adept at developing web applications and leading teams. Seeking opportunities to apply software engineering skills in an innovative tech environment.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
